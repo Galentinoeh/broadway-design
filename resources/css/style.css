@@ -1,12 +1,14 @@
 *{font-family:helvetica;}
 
 .center{text-align:center;}
+.left{text-align:left;}
 
 .header{font-size: 70px;}
 .large{font-size:32px;}
 .medium-plus{font-size:23px;}
 .medium{font-size:18px;}
 .small{font-size:14px;}
+.extra-small{font-size: 11px;}
 
 .bold{font-weight: bold;}
 .normal{font-weight:normal;}
@@ -14,3 +16,4 @@
 .white{color: white;}
 
 .background-image{background-image: url("file:///E:/9Projects/broadway-design/resources/content/the-flatiron-building.png");}
+.background-gray{background-color: gray;}
