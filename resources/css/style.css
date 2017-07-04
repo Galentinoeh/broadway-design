@@ -3,7 +3,10 @@
 .center{text-align:center;}
 
 .header{font-size: 70px;}
+.large{font-size:32px;}
+.medium-plus{font-size:23px;}
 .medium{font-size:18px;}
+.small{font-size:14px;}
 
 .bold{font-weight: bold;}
 .normal{font-weight:normal;}
